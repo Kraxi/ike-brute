@@ -6,7 +6,7 @@ display_usage() {
 
 }
 
-if [[ $# == "-h"  ]]
+if [[ $1 == "-h"  ]]
 then
     display_usage
     exit 1
