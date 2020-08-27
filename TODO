@@ -1,0 +1,6 @@
+* Add arguments support
+  * verbose flag
+  * output file
+  * output file with valid transformations
+  * input file with possible transformations
+  * input file with group ids
